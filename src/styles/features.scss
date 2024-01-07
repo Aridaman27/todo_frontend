@@ -1,5 +1,5 @@
-$color2: rgb(255, 255, 255);
-$color3: rgb(51, 51, 51);
+$color2: #ffffff;
+$color3: #068932;
 $color4: #e7e7e7;
 
 $text1: "Quicksand", sans-serif;
@@ -93,7 +93,7 @@ $shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   input {
     width: 100%;
     padding: 1rem;
-    border: 1px solid $color4;
+    border: 1px solid rgb(12, 11, 11);
     font: 400 1rem $text1;
     background-color: $color2;
     outline: none;
